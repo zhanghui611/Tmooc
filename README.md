@@ -1,7 +1,8 @@
 # Tmooc
 My first java project.
 #Git Guide
-1.import project that clone from remote repo(do not check copy to workspace,this step just needed at first time)
+!!!import project that clone from remote repo(do not check copy to workspace,this step just needed at first time)
+1.sycn code
 2.develop
 3.open GUI, check the changes you've made
 4.Click file icon to stage file(ready to commit)
