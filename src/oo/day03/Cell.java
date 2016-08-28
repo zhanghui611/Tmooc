@@ -1,4 +1,4 @@
-package oo.day02;
+package oo.day03;
 //格子类
 public class Cell {
 	int row; //行号
@@ -14,7 +14,7 @@ public class Cell {
 		this.col = n;
 	}
 	Cell(){
-		//this(0,0);//调用构造方法
+		//this(0,0);//调用构造方法	
 	}
 	
 	public void drop(){ //下落1格
